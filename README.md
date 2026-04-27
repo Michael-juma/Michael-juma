@@ -1,7 +1,7 @@
 👋 Hi, I’m Michael Obudho Juma
 Software Engineer || Full Stack Engineer
 🌍 Nairobi, Kenya
-💼 Portfolio: https://mike-s-port-app-glk8.vercel.app/
+💼 Portfolio: https://juma-portfolio-ruddy.vercel.app/homepage
 ________________________________________
 🚀 About Me
 I’m a full-stack software engineer who loves turning ideas into clean, functional, and scalable applications. I work comfortably across both the frontend and backend—whether I’m crafting responsive user interfaces, building stable APIs, or structuring databases that actually make sense.
